@@ -1,5 +1,3 @@
-# Repo teste
-
-Esse é um teste
+# Repo test
 
 Editei pelo github
